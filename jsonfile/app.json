@@ -1,0 +1,87 @@
+[
+    {
+      "Nama": "Ari",
+      "Waktu": 20.1,
+      "Nilai": 65.59
+    },
+    {
+      "Nama": "Andi",
+      "Waktu": 10,
+      "Nilai": 50.01
+    },
+    {
+      "Nama": "Budi",
+      "Waktu": 15.15,
+      "Nilai": 60
+    },
+    {
+      "Nama": "Bayu",
+      "Waktu": 1.1,
+      "Nilai": 45
+    },
+    {
+      "Nama": "Citra",
+      "Waktu": 2,
+      "Nilai": 55.35
+    },
+    {
+      "Nama": "Candra",
+      "Waktu": 0.1,
+      "Nilai": 58.39
+    },
+    {
+      "Nama": "Dodi",
+      "Waktu": 0.2,
+      "Nilai": 70
+    },
+    {
+      "Nama": "Dimas",
+      "Waktu": 3.01,
+      "Nilai": 91
+    },
+    {
+      "Nama": "Erwin",
+      "Waktu": 10.15,
+      "Nilai": 35.55
+    },
+    {
+      "Nama": "Fikri",
+      "Waktu": 10.3,
+      "Nilai": 97.01
+    },
+    {
+      "Nama": "Gilang",
+      "Waktu": 10.9,
+      "Nilai": 59.3
+    },
+    {
+      "Nama": "Hailkal",
+      "Waktu": 3,
+      "Nilai": 70
+    },
+    {
+      "Nama": "Irwan",
+      "Waktu": 3.3,
+      "Nilai": 60
+    },
+    {
+      "Nama": "Joko",
+      "Waktu": 19.03,
+      "Nilai": 65.59
+    },
+    {
+      "Nama": "Kirana",
+      "Waktu": 17,
+      "Nilai": 100
+    },
+    {
+      "Nama": "Latif",
+      "Waktu": 14.05,
+      "Nilai": 89.9
+    },
+    {
+      "Nama": "Naila",
+      "Waktu": 12.1,
+      "Nilai": 91
+    }
+   ]
